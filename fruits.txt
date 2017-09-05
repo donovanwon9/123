@@ -2,6 +2,7 @@
 tomato
 Orange
 Banana
+banana
 Grape
 Apple
 Cherry
